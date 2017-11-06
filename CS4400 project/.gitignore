@@ -1,0 +1,93 @@
+#intellij idea folder
+.idea/
+/Login$1.class
+/Login$2.class
+/Login$3.class
+/Login.class
+/Register$1.class
+/Register$2.class
+/Register.class
+/SuperChooseFunctionalityPage.class
+/SuperChooseFunctionalityPage$1.class
+/SuperChooseFunctionalityPage$2.class
+/SuperChooseFunctionalityPage$3.class
+/SuperChooseFunctionalityPage$4.class
+/SuperChooseFunctionalityPage$5.class
+/ConnectDB.class
+
+#classpath file and project file
+.classpath
+.project
+
+/POI$1.class
+/POI.class
+
+/CityScientistAddNewDataPoint.class
+/CityScientistAddNewDataPoint$1.class
+/CityScientistAddNewDataPoint$2.class
+/DatePicker$1.class
+/DatePicker.class
+/CityScientistAddNewLocation$1.class
+/CityScientistAddNewLocation.class
+/AdminRejectOrAccept$1.class
+/AdminRejectOrAccept.class
+/AdminRejectOrAcceptOfficials$1.class
+/AdminRejectOrAcceptOfficials.class
+/CityScientistAddNewLocation$2.class
+/AdminRejectOrAccept$2.class
+/CityScientistAddNewDataPoint$DateLabelFormatter.class
+/DataPoint$1.class
+/DataPoint$2.class
+/DataPoint$3.class
+/DataPoint$4.class
+/DataPoint.class
+/Location$1.class
+/Location$2.class
+/Location$3.class
+/Location.class
+/SuperChooseFunctionalityPage$6.class
+/User.class
+/CityScientistAddNewDataPoint$3.class
+/AdminRejectOrAccept$3.class
+/AdminRejectOrAcceptOfficials$2.class
+/AdminRejectOrAcceptOfficials$3.class
+/CityOfficialPOIDetail$1.class
+/CityOfficialPOIDetail.class
+/CityOfficialSearchFilterPOI$1.class
+/CityOfficialSearchFilterPOI.class
+<<<<<<< HEAD
+=======
+/AdminRejectOrAcceptOfficials$4.class
+>>>>>>> cc88618b7780b01d37184db7a41fc0645e035ad8
+/CityOfficialSearchFilterPOI$2.class
+/CityOfficialSearchFilterPOI$3.class
+/CityOfficialSearchFilterPOI$4.class
+/CityOfficialSearchFilterPOI$5.class
+/CityOfficialSearchFilterPOI$6.class
+/CityOfficialSearchFilterPOI$7.class
+<<<<<<< HEAD
+/AdminRejectOrAcceptOfficials$4.class
+=======
+>>>>>>> cc88618b7780b01d37184db7a41fc0645e035ad8
+/Register$3.class
+/Register$4.class
+/CityScientistAddNewLocation$3.class
+/CityScientistAddNewLocation$4.class
+/CityOfficialPOIDetail$2.class
+/CityOfficialSearchFilterPOI$8.class
+/CityOfficialSearchFilterPOI$9.class
+/CityScientistAddNewDataPoint$4.class
+/CityScientistAddNewDataPoint$5.class
+/CityOfficialSearchFilterPOI$10.class
+/CityOfficialPOIReport$1.class
+/CityOfficialPOIReport$2.class
+/CityOfficialPOIReport.class
+<<<<<<< HEAD
+/AdminRejectOrAccept$4$1.class
+/AdminRejectOrAccept$4.class
+=======
+>>>>>>> origin/master
+/Register$5.class
+/CityOfficialPOIDetail$3.class
+/CityOfficialPOIDetail$4.class
+/CityOfficialPOIDetail$5.class
